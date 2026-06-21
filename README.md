@@ -80,7 +80,7 @@ Performance was evaluated over 10 bags across three criteria: cycle time, vacuum
 
 | Metric | Result |
 |---|---|
-| Average cycle time | 96.7 s per bag |
+| Average cycle time | 80 s per bag |
 | Production throughput | ~45 bags/hour (80% improvement over 25 bags/hour manually) |
 | Mean dosing weight | 100.9 g (target: 100 g) |
 | Dosing standard deviation | ±3.3 g |
